@@ -1,0 +1,17 @@
+div#content{
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 80%;
+    border-color: #000000;
+    border-style: solid;
+    overflow-y: scroll;
+}
+
+div#chat{
+    padding-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 80%;
+}
